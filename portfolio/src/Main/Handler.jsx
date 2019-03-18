@@ -43,7 +43,6 @@ class Handler extends Component{
                         <div className="col-3"></div>
                     </div>
 
-
                     <Switch>
                         <Route path="/" exact={true} component={Info} />
                         <Route path="/Education" component={Education} />
