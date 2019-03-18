@@ -18,13 +18,13 @@ class Top extends Component{
 
         return(
             <div>
-                <div class="row">
-                    <div class="col-3"></div>
-                    <div class="col-6 padding-top"><h2>{ state.title }</h2></div>
-                    <div class="col-3"></div>
-                    <div class="col-3"></div>
-                    <div class="col-6"> <hr></hr></div>
-                    <div class="col-3"></div>
+                <div className="row">
+                    <div className="col-3"></div>
+                    <div className="col-6 padding-top"><h2>{ state.title }</h2></div>
+                    <div className="col-3"></div>
+                    <div className="col-3"></div>
+                    <div className="col-6"> <hr></hr></div>
+                    <div className="col-3"></div>
                 </div>
             </div>
         );

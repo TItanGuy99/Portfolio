@@ -7,14 +7,14 @@ import MenuBar from './Main/MenuBar'
 
 class App extends Component {
   render() {
-    return (
-      <div className="App">
-          <Top />
-          
-          <Info />
-          <Footer email='luiz.neosnk@gmail.com' linkedin='https://www.linkedin.com/in/luiz-nai/' />
-      </div>
-    );
+      return (
+        <div className="App">
+            <Top />
+            <MenuBar />    
+            <Info />
+            <Footer email='luiz.neosnk@gmail.com' linkedin='https://www.linkedin.com/in/luiz-nai/' />
+        </div>
+      );
   }
 }
 
