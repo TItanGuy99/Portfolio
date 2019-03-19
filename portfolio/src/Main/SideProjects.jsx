@@ -25,6 +25,9 @@ class SideProjects extends Component{
                         <p className="info-alignment-left">
                             Titan Game Studios is my side project. Here I develop tools and games for consoles and mobile.
                         </p>
+                        <ul className="info-alignment-left">
+                            <li>C, C++, C#, ActionScript, HTML5, JavaScript and CSS.</li>
+                        </ul>
                         <p className="info-alignment-left">
                             <a target="_blank" href="http://www.titangamestudios.com">http://www.titangamestudios.com</a>
                         </p>
