@@ -26,7 +26,7 @@ class MenuBar extends Component{
                                     <Link className="nav-link" to="/Experience">Experience</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link" to="/OtherProjects">Other Projects</Link>
+                                    <Link className="nav-link" to="/SideProjects">Side Projects</Link>
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link" to="/Contact">Contact</Link>

@@ -40,6 +40,18 @@
   padding: 20px;
 }
 
-.info-alignment{
+.info-alignment-left{
   text-align: left;
+}
+
+.info-alignment-center{
+  text-align: center;
+}
+
+.bg-color-dark{
+  background-color: #343a40;
+}
+
+.bg-color-light{
+  background-color: #ffffff;
 }
