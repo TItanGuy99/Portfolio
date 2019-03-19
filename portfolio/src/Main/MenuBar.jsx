@@ -14,7 +14,7 @@ class MenuBar extends Component{
                 <div className="row">
                     <div className="col-2"></div>
                     <div className="col-8">
-                        <nav className="navbar navbar-expand-sm bg-light navbar-light">
+                        <nav className="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
                             <ul className="navbar-nav">
                                 <li className="nav-item">
                                     <Link className="nav-link" to="/">General Info</Link>
