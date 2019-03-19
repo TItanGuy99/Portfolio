@@ -16,8 +16,8 @@ class Info extends Component{
         return(
             <div>
                 <div className="row">
-                    <div className="col-3"></div>
-                    <div className="col-6 padding-top">
+                    <div className="col-2"></div>
+                    <div className="col-8 padding-top">
                     
                     <p className="info-alignment">Web Developer with over 7 years of experience. I work with front and back-end, I have also experience with DotNet, gamification, mobile and agile methodologies.</p>
                     <p className="info-alignment">I'm very passionate in learning new technologies. At the moment I'm focusing on React.JS, React Native, Redux and Node.js.</p>
@@ -71,7 +71,7 @@ class Info extends Component{
                     <p className="info-alignment"><strong>Operating systems:</strong></p>
                     <p className="info-alignment">Microsoft Windows, Linux (Ubuntu), Android and IoS.</p>
                     </div>
-                    <div className="col-3"></div>
+                    <div className="col-2"></div>
                 </div>
             </div>
         );

@@ -9,13 +9,13 @@ class Education extends Component{
         return(
             <div>
                 <div className="row">
-                    <div className="col-3"></div>
-                    <div className="col-6 padding-top">
+                    <div className="col-2"></div>
+                    <div className="col-8 padding-top">
                         <p>
                             Teste
                         </p>
                     </div>
-                    <div className="col-3"></div>
+                    <div className="col-2"></div>
                 </div>
             </div>
         );
