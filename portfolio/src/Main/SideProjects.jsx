@@ -48,6 +48,32 @@ class SideProjects extends Component{
                     </div>
                     <div className="col-2"></div>
 
+
+                    <div className="col-2"></div>
+
+          
+
+
+                        
+                    <div className="col-8 card mb-3">
+                        <img className="card-img-top" src="/images/cpm.jpeg"></img>
+                        <div className="card-body">
+                            <h5 className="card-title info-alignment-left"><strong>Cidadão Pró-Mundo</strong> (2018 - Present)</h5>
+                            <p className="card-text info-alignment-left">Teaching English language for people with limited access to education.</p>
+                            <p className="info-alignment-left">
+                            <a target="_blank" href="https://www.cidadaopromundo.org/">https://www.cidadaopromundo.org/</a>
+                        </p>
+                        </div>
+                    </div>
+
+        
+
+           
+
+            
+                    <div className="col-2"></div>
+
+
                 </div>
             </div>
         );
