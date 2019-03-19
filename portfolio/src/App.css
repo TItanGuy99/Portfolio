@@ -55,3 +55,12 @@
 .bg-color-light{
   background-color: #ffffff;
 }
+
+.text-white{
+  color: white;
+}
+
+.image-size{
+  width: 100%;
+
+}
