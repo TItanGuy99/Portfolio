@@ -9,6 +9,7 @@ import Education from './Main/Education'
 import MenuBar from './Main/MenuBar'
 import Experience from './Main/Experience';
 import SideProjects from './Main/SideProjects';
+import Contact from './Main/Contact';
 
 
 class App extends Component {
@@ -23,6 +24,7 @@ class App extends Component {
               <Route path="/Education" component={Education} />
               <Route path="/Experience" component={Experience} />
               <Route path="/SideProjects" component={SideProjects} />
+              <Route path="/Contact" component={Contact} />
             </Switch>
           </BrowserRouter>
 
