@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.b1067d76.chunk.css",
-  "main.js": "/static/js/main.aecd4833.chunk.js",
-  "main.js.map": "/static/js/main.aecd4833.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/css/2.05957a96.chunk.css": "/static/css/2.05957a96.chunk.css",
-  "static/js/2.34848491.chunk.js": "/static/js/2.34848491.chunk.js",
-  "static/js/2.34848491.chunk.js.map": "/static/js/2.34848491.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.f1e8895097e8675a0c96f9eca0740eff.js": "/precache-manifest.f1e8895097e8675a0c96f9eca0740eff.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.05957a96.chunk.css.map": "/static/css/2.05957a96.chunk.css.map",
-  "static/css/main.b1067d76.chunk.css.map": "/static/css/main.b1067d76.chunk.css.map"
+  "main.css": "/luiznai-portfolio.github.io/static/css/main.b1067d76.chunk.css",
+  "main.js": "/luiznai-portfolio.github.io/static/js/main.73f508b8.chunk.js",
+  "main.js.map": "/luiznai-portfolio.github.io/static/js/main.73f508b8.chunk.js.map",
+  "runtime~main.js": "/luiznai-portfolio.github.io/static/js/runtime~main.57ba9837.js",
+  "runtime~main.js.map": "/luiznai-portfolio.github.io/static/js/runtime~main.57ba9837.js.map",
+  "static/css/2.05957a96.chunk.css": "/luiznai-portfolio.github.io/static/css/2.05957a96.chunk.css",
+  "static/js/2.34848491.chunk.js": "/luiznai-portfolio.github.io/static/js/2.34848491.chunk.js",
+  "static/js/2.34848491.chunk.js.map": "/luiznai-portfolio.github.io/static/js/2.34848491.chunk.js.map",
+  "index.html": "/luiznai-portfolio.github.io/index.html",
+  "precache-manifest.eff410ff5c80b50a97f0abefcad60a9e.js": "/luiznai-portfolio.github.io/precache-manifest.eff410ff5c80b50a97f0abefcad60a9e.js",
+  "service-worker.js": "/luiznai-portfolio.github.io/service-worker.js",
+  "static/css/2.05957a96.chunk.css.map": "/luiznai-portfolio.github.io/static/css/2.05957a96.chunk.css.map",
+  "static/css/main.b1067d76.chunk.css.map": "/luiznai-portfolio.github.io/static/css/main.b1067d76.chunk.css.map"
 }
