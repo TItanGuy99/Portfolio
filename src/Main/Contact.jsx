@@ -47,28 +47,32 @@ class Contact extends Component{
             name:'',
             message:''
         })
+
+        document.getElementById("contact-form").reset();
     }
 
     render()
     {
+        const {state} = this;
+        
         return(
             <div>
                 <div className="row">
                     <div className="col-2"></div>
                     <div className="col-8">
-                        <form>
+                        <form id="contact-form">
                             <h2 className="padding-top">
                                 Leave a message to me!
                             </h2>
                             <p className="padding-top">
                                 Name:
                             </p>
-                                <input type="text" value={this.state.value} onChange={this.handleChangeName} />
+                                <input type="text" value={state.value} onChange={this.handleChangeName} />
                             <br />
                             <p  className="padding-top">
                                 Message:
                             </p>
-                                <textarea value={this.state.value} onChange={this.handleChangeMessage} />
+                                <textarea value={state.value} onChange={this.handleChangeMessage} />
                             <p className="padding-top" >
                                 <input type="submit" onClick={this.handleSubmit} />
                             </p>
