@@ -10,7 +10,7 @@ class SideProjects extends Component{
 
                <div className="col-2"></div>
                     <div className="col-8">
-                    <img className="rounded float-left image-size padding-top" src="/images/titan.jpg"></img>
+                    <img className="rounded float-left image-size padding-top" src="/images/titan.jpg" alt="Picture of an interview"></img>
                     </div>
                     <div className="col-2"></div>
 
@@ -40,7 +40,7 @@ class SideProjects extends Component{
 
                     <div className="col-2"></div>
                     <div className="col-8">
-                    <img className="rounded float-left image-size" src="/images/cpm.jpeg"></img>
+                    <img className="rounded float-left image-size" src="/images/cpm.jpeg"  alt="Picture of a class with teachers and students."></img>
                     </div>
                     <div className="col-2"></div>
 
